@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @snigurenko
 - 👀 I’m interested in js frameworks 
-- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate with vue, angular, react projects 
 - 📫 write me to dendygreek@gmail.com
 
